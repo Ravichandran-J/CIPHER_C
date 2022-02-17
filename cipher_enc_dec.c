@@ -63,7 +63,7 @@ void decrypt(char message[100],int key)
                 message[i] = ch;
             }
         }
-        printf("dncrypted message: %s", message); 
+        printf("decrypted message: %s", message); 
         printf("\nwait 10 seconds the program will automatically close...");  
         delay(100000);
 
