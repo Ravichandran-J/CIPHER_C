@@ -1,6 +1,6 @@
 # CIPHER_C
 
-A cipher is also called as encyption algorithm,encrypting and decrypting a data.A cipher converts a original data(plain text) into a cipher text with the use of ke**y.
+A cipher is also called as encyption algorithm,encrypting and decrypting a data.A cipher converts a original data(plain text) into a cipher text with the use of key.
 
 **#SCREENSHOTS**
 
